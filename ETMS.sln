@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETMS.API", "ETMS.API\ETMS.API.csproj", "{B05BCE9B-B1FF-403A-BF22-5B97C2B0E8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETMS.Application", "ETMS.Application\ETMS.Application.csproj", "{BE8D4E1F-10A7-42A0-9B41-1FF1AC3C758D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETMS.Domain", "ETMS.Domain\ETMS.Domain.csproj", "{B45BD2E8-DA9F-4A11-8C2E-7184A8310357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETMS.Infrastructure", "ETMS.Infrastructure\ETMS.Infrastructure.csproj", "{B339EC12-6949-4C6E-ADA0-F7AED9CFA500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05BCE9B-B1FF-403A-BF22-5B97C2B0E8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05BCE9B-B1FF-403A-BF22-5B97C2B0E8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05BCE9B-B1FF-403A-BF22-5B97C2B0E8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05BCE9B-B1FF-403A-BF22-5B97C2B0E8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8D4E1F-10A7-42A0-9B41-1FF1AC3C758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8D4E1F-10A7-42A0-9B41-1FF1AC3C758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8D4E1F-10A7-42A0-9B41-1FF1AC3C758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8D4E1F-10A7-42A0-9B41-1FF1AC3C758D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45BD2E8-DA9F-4A11-8C2E-7184A8310357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45BD2E8-DA9F-4A11-8C2E-7184A8310357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45BD2E8-DA9F-4A11-8C2E-7184A8310357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45BD2E8-DA9F-4A11-8C2E-7184A8310357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B339EC12-6949-4C6E-ADA0-F7AED9CFA500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B339EC12-6949-4C6E-ADA0-F7AED9CFA500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B339EC12-6949-4C6E-ADA0-F7AED9CFA500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B339EC12-6949-4C6E-ADA0-F7AED9CFA500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
